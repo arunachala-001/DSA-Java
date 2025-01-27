@@ -21,6 +21,8 @@ public class CircularLinkedList<T> {
         CList.deleteAtFirstPos();
         CList.deleteAtEndPos();
         CList.traverse();
+
+
     }
 
     Node last;
